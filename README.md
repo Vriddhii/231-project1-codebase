@@ -1,6 +1,6 @@
-# indeng231-backtester
+## 231 Project 1 Codebase
 
-A modular trading strategy backtesting system built for INDENG 231 at UC Berkeley. The system simulates daily close trading strategies on five years of Nasdaq-100 historical price data (101 stocks, April 2021 to April 2026).
+A modular trading strategy backtesting system built for INDENG 231. The system simulates daily close trading strategies on five years of Nasdaq-100 historical price data (101 stocks, April 2021 to April 2026).
 
 ## What it does
 
