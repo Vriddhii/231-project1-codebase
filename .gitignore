@@ -1,0 +1,9 @@
+data/*.csv
+results/plots/*.png
+results/logs/*.csv
+results/logs/*.json
+results/logs/*.png
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
